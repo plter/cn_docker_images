@@ -1,0 +1,1 @@
+docker build -t xtiqin/nginx_aliyun_mirror .
