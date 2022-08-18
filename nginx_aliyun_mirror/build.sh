@@ -1,1 +1,1 @@
-docker build -t xtiqin/nginx_aliyun_mirror .
+docker build -t xtiqin/nginx_aliyun_mirror:1.23 .
